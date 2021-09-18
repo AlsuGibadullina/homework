@@ -1,8 +1,6 @@
-package com.company.Tests;
-
-import com.company.Exceptions.NumberOfArgumentsException;
-import com.company.Exceptions.OperatorException;
-import com.company.Parser;
+import JavaKotlin.hw1.Exceptions.NumberOfArgumentsException;
+import JavaKotlin.hw1.Exceptions.OperatorException;
+import JavaKotlin.hw1.Parser;
 import org.junit.Assert;
 import org.junit.Test;
 

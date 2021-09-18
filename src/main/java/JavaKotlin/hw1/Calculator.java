@@ -1,4 +1,4 @@
-package com.company;
+package JavaKotlin.hw1;
 
 public class Calculator {
     public static String calculate(int val1, String operator, int val2) {

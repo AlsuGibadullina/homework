@@ -1,7 +1,7 @@
-package com.company;
+package JavaKotlin.hw1;
 
-import com.company.Exceptions.NumberOfArgumentsException;
-import com.company.Exceptions.OperatorException;
+import JavaKotlin.hw1.Exceptions.NumberOfArgumentsException;
+import JavaKotlin.hw1.Exceptions.OperatorException;
 
 public class Parser {
     public static String parseOperatorOrError(String arg) throws OperatorException {

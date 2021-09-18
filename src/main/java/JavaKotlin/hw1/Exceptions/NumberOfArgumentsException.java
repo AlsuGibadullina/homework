@@ -1,4 +1,4 @@
-package com.company.Exceptions;
+package JavaKotlin.hw1.Exceptions;
 
 public class NumberOfArgumentsException extends Exception{
 

@@ -1,8 +1,6 @@
-package com.company.Tests;
-import com.company.Calculator;
+import JavaKotlin.hw1.Calculator;
 import org.junit.Assert;
 import org.junit.Test;
-
 
 public class CalculatorTests {
 
